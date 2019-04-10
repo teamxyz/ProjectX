@@ -31,6 +31,14 @@
     },
     "resources": [
         {
+            "Key": "0655c6c6-3d22-421a-9fda-65cbffae4bdf",
+            "Value": {
+                "id": "61d8a9af-1dd6-464e-9276-07111c4cc500",
+                "resourcePath": "sprites\\SpMediumBlockBack\\SpMediumBlockBack.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "0f889db0-4b94-4d3f-aaf2-91cc29f03fe8",
             "Value": {
                 "id": "7ddd49a8-8d50-4208-8abd-e191d15728b3",
@@ -39,11 +47,27 @@
             }
         },
         {
+            "Key": "0f9e7d17-2d7a-496f-964a-518e7239e61a",
+            "Value": {
+                "id": "ffc835f8-8b8a-411c-85ae-412f07600ee4",
+                "resourcePath": "objects\\ObSoftBlock\\ObSoftBlock.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "19b13667-dbbc-4341-9adb-8f951f7b3e00",
             "Value": {
                 "id": "a1ee1c7e-a7ec-46ad-b55d-8ec159206481",
                 "resourcePath": "views\\19b13667-dbbc-4341-9adb-8f951f7b3e00.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "2c9df3f4-039f-4203-8293-78a1960906ec",
+            "Value": {
+                "id": "e781a065-2228-4f0a-872b-cb4c078ec4be",
+                "resourcePath": "sprites\\SpSoftBlockBack\\SpSoftBlockBack.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -87,11 +111,27 @@
             }
         },
         {
+            "Key": "784931af-22fd-4e34-848b-de5d21165942",
+            "Value": {
+                "id": "a10303f6-025a-413f-b61b-d027b753bb02",
+                "resourcePath": "sprites\\SpMediumBlock\\SpMediumBlock.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "7ec0d3a6-2cb0-4b0a-80ce-50664676ebdc",
             "Value": {
                 "id": "48179a9e-8558-4f97-9d67-25f58354c847",
                 "resourcePath": "views\\7ec0d3a6-2cb0-4b0a-80ce-50664676ebdc.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "84b15d36-8efe-4a3a-98af-bcaaa69da98b",
+            "Value": {
+                "id": "460e12f2-40e1-4927-9555-d0d36ddb1a72",
+                "resourcePath": "objects\\ObHardBlock\\ObHardBlock.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -127,6 +167,22 @@
             }
         },
         {
+            "Key": "9efc8b76-dba0-4733-b92f-61754c3f9477",
+            "Value": {
+                "id": "a5317c79-e737-4111-858c-51cd231dc8c5",
+                "resourcePath": "sprites\\SpHardBlock\\SpHardBlock.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "9fd49a83-57bd-47ea-8c24-3b8657989f81",
+            "Value": {
+                "id": "a044339d-912b-4374-935a-9ea79f535e86",
+                "resourcePath": "objects\\ObMediumBlock\\ObMediumBlock.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "af1f4167-576f-4010-94af-01d7147767b4",
             "Value": {
                 "id": "6f4db6e0-e739-42ba-aea9-3db18c15317d",
@@ -140,6 +196,22 @@
                 "id": "14f985bd-5c2d-4f54-ad34-76085270f319",
                 "resourcePath": "views\\bccee450-874d-4f1e-9b47-2b6ce9ac4830.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "c171b689-0a20-421b-a3e1-439d2fe5af62",
+            "Value": {
+                "id": "286cfe5a-aadb-430e-8e4e-ef0e403825e8",
+                "resourcePath": "objects\\ObHardBlockBack\\ObHardBlockBack.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "c97f84e6-c1c0-41fd-83b6-4e2233731cb1",
+            "Value": {
+                "id": "9befe68b-7b96-4124-ad78-2e10aceda41c",
+                "resourcePath": "sprites\\SpSoftBlock\\SpSoftBlock.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -159,11 +231,35 @@
             }
         },
         {
+            "Key": "e1aaee90-1df1-49a1-8b5a-4e82c7dcfb19",
+            "Value": {
+                "id": "1ade94ff-8460-493d-8115-614577cfd883",
+                "resourcePath": "objects\\ObMediumBlockBack\\ObMediumBlockBack.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "e307d1bc-f381-41a9-8c57-fd19a5a23702",
             "Value": {
                 "id": "64190e81-467b-4f6e-8a6f-e9d1e3bd0abe",
                 "resourcePath": "views\\e307d1bc-f381-41a9-8c57-fd19a5a23702.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "e343b0d3-97f9-4208-a02e-edc849a06a00",
+            "Value": {
+                "id": "64e967f2-f5eb-46c6-8396-0927e42c2f75",
+                "resourcePath": "sprites\\SpHardBlockBack\\SpHardBlockBack.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "fb7d047b-0803-4cfa-9783-fc7c31128562",
+            "Value": {
+                "id": "51e26e78-e678-46a9-8b94-52075cc78d05",
+                "resourcePath": "objects\\ObSoftBlockBack\\ObSoftBlockBack.yy",
+                "resourceType": "GMObject"
             }
         },
         {
